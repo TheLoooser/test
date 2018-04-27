@@ -12,6 +12,7 @@ public class Test {
     public static void main(String[] args) {
         //simple output
         System.out.print("Test");
+        //what the heck happend?
     }
     
 }

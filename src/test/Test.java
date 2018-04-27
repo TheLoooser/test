@@ -12,7 +12,7 @@ public class Test {
     public static void main(String[] args) {
         //simple output
         System.out.println("Test");
-        //changes of goHam branch
+        //changes of goHam branch v2.0
         int j = 0;
         for (int i = 0; i < 10; i++) {
             j += i;

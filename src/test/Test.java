@@ -1,7 +1,7 @@
 package test;
 
 /**
- *
+ * THIS .... IS .... SPARTA!!!
  * @author Dizzy
  */
 public class Test {

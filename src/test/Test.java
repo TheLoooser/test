@@ -1,7 +1,7 @@
 package test;
 
 /**
- *
+ *  This is obviously not Sparta.
  * @author Dizzy
  */
 public class Test {
